@@ -1,0 +1,13 @@
+openai
+python-dotenv
+yfinance
+pandas
+numpy
+scikit-learn
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+phidata
+python-multipart
